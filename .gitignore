@@ -1,0 +1,6 @@
+Include/
+Lib/
+Scripts/
+.project
+.pydevproject
+pyvenv.cfg
