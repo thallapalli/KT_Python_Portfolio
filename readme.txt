@@ -8,6 +8,8 @@ step4
 step5
 set FLASK_APP=server.py
 step6
+set FLAST_ENV=development
+step7
 flask run
 
 
