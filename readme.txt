@@ -12,4 +12,10 @@ set FLAST_ENV=development
 step7
 flask run
 
+Deploy steps
+
+goto python anywhere
+create your own account
+
+
 
