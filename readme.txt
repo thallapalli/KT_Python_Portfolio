@@ -18,5 +18,12 @@ pip freeze > requirements.txt
 goto python anywhere
 create your own account
 
+import sys
+path = '/home/karnakar/KT_Python_Portfolio'
+if path not in sys.path:
+    sys.path.append(path)
+
+from server import app as application
+
 
 
