@@ -12,4 +12,11 @@ set FLAST_ENV=development
 step7
 flask run
 
+Deploy steps
+pip freeze > requirements.txt
+
+goto python anywhere
+create your own account
+
+
 
